@@ -23,4 +23,9 @@
    10. Sign in alchemy.com and create the app. 
    11. npm install alchemy-sdk
    12. install metamask on chrome to send test test: etherum: 
-   13.  
+   13. Good idea to install rome to do the formatting similar to black in python
+   14. npm install rome
+       a. npx rome check . (to check the code)
+       b. npx format . (to format the code)
+       c. add Rome to github ci format to check code (for now rome linter directly on circleci or bash file to run the executable on mac)
+   15. 
