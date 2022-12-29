@@ -21,5 +21,6 @@
    7. Setup tailwindcss [tailwindcss-next-js](https://tailwindcss.com/docs/guides/nextjs)
    8. Create a folder called smart-contracts (Setup up hardhat)
    9. cd hardhat (npx hardhat) ()
-   10. 
-
+   10. Sign in alchemy.com and create the app. 
+   11. npm install alchemy-sdk
+   12.  
