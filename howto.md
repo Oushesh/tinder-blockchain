@@ -11,7 +11,6 @@
     -- Entrypoint: pages/index.js 
 
 ## How to build:
-
    1. npx create-next-app@latest .
    2. Choose for now javascript default
    3. cd tinder-blockchain
@@ -23,4 +22,5 @@
    9. cd hardhat (npx hardhat) ()
    10. Sign in alchemy.com and create the app. 
    11. npm install alchemy-sdk
-   12.  
+   12. install metamask on chrome to send test test: etherum: 
+   13.  
